@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "GATAS Lab Meeting Presentations"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/AlgebraicJulia/Presentations
+format:
+  html:
+    html-math-method: katex
+    theme:
+      light: flatly
+      dark: darkly
+    linkcolor: "#4E8ABB" 
+    navbar:
+      background: "#4E8ABB"
+      foreground: "#6FB450"    
+      
+    css: styles.css
+
+from: markdown+tex_math_single_backslash
+
+

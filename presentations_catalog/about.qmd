@@ -1,0 +1,13 @@
+---
+title: "About"
+image: _assets/icons/logo-darkbg.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/AlgebraicJulia/Presentations
+
+---
+
+About this blog
